@@ -70,7 +70,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Leaky {
+public class leaky {
     public static void main(String[] args) {
         int drop = 0, mini, orate, bsize, nsec, premain = 0;
         int[] packet = new int[100];
